@@ -7,6 +7,7 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 1. [Schema](#Schema)
+1. [GIFS](#GIFS)
 
 ## Overview
 ### Description
@@ -25,11 +26,11 @@ A dating app that allows user to match with potential partners based on matching
 
 **Required Must-have Stories**
 
-* User can sign up to create a new account.
-* User can log in and log out of his or her account.
-* Profile pages for each user.
-* User can swipe right or left to match or pass according to their selected gender preference.
-* Matches have a chat window to get to know each other.
+- [ ] User can sign up to create a new account.
+- [ ] User can log in and log out of his or her account.
+- [ ] Profile pages for each user.
+- [x] User can swipe right or left to match or pass.
+- [ ] Matches have a chat window to get to know each other.
 
 **Optional Nice-to-have Stories**
 
@@ -105,12 +106,32 @@ A dating app that allows user to match with potential partners based on matching
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile information
 
-#### [OPTIONAL:] Existing API Endpoints
-- ...
+## GIFS
+### BUILD SPRINT 1
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/aGBjtF3p1d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### BUILD SPRINT 2
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### BUILD SPRINT 3
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### BUILD SPRINT 4
+Here's a walkthrough of implemented user stories:
+
+<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIFs created with [Recordit](https://recordit.co/).
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Carlos Fuentes copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

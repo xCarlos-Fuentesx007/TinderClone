@@ -26,14 +26,15 @@ A dating app that allows user to match with potential partners based on matching
 
 **Required Must-have Stories**
 
-- [ ] User can sign up to create a new account.
-- [ ] User can log in and log out of his or her account.
-- [ ] Profile pages for each user.
+- [x] User can sign up to create a new account.
+- [x] User can log in and log out of his or her account.
+- [x] Matching System and Profile pages for each user.
 - [x] User can swipe right or left to match or pass.
-- [ ] Matches have a chat window to get to know each other.
+- [x] Matches have a chat window to get to know each other.
 
 **Optional Nice-to-have Stories**
 
+* Edit the style/color (UX/UI) similar to Tinder.
 * Users can use their current location to match with nearby users.
 * Add a page for preferences (set distance based on user location).
 * Users can link their instagram and/or Spotify onto their profile.
@@ -42,8 +43,9 @@ A dating app that allows user to match with potential partners based on matching
 
 ### 2. Screen Archetypes
 
-* Login 
-* Register - User signs up or logs into their account
+* Register - User can sign up for a new account.
+   * Upon Download/Reopening of the application, the user is prompted to create a new account to gain access to their profile information to be properly matched with another person. 
+* Login - User can loging or logout out of their account.
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
    * Upon swiping right, users are matched and message screen opens
@@ -115,23 +117,21 @@ Here's a walkthrough of implemented user stories:
 ### BUILD SPRINT 2
 Here's a walkthrough of implemented user stories:
 
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/pPqKTLqq0x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### BUILD SPRINT 3
 Here's a walkthrough of implemented user stories:
 
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MidH2T2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### BUILD SPRINT 4
 Here's a walkthrough of implemented user stories:
 
-<img src='...' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIFs created with [Recordit](https://recordit.co/).
+<img src='http://g.recordit.co/2SXlBkoqQb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
-    Copyright [2022] [Carlos Fuentes copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
